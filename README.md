@@ -1,10 +1,12 @@
 # ESCUELA POLITÉCNICA NACIONAL
 ## Programacion II
-## PRUEBA PARCIAL II - BIMESTRE I
-Estudiante : Alban Salazar Emilio Fabian
-Curso:       Gr2SW
-Cedula:      1751257088
-Fecha:       19 / 11 / 2025
+## Prueba Parcial II - Bimestre I
 
-## ENLACE DEL REPOSITORIO EN GITHUB:
-https://github.com/emilioalbansq/AlbanEmilio
+**Estudiante:** Alban Salazar Emilio Fabian  
+**Curso:** Gr2SW  
+**Cédula:** 1751257088  
+**Fecha:** 19/11/2025  
+
+## Enlace del Repositorio en GitHub:
+[https://github.com/emilioalbansq/AlbanEmilio](https://github.com/emilioalbansq/AlbanEmilio)
+
